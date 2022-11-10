@@ -332,7 +332,7 @@ int task20() {
 	}
 	else
 	{
-		cout << "The number cannot be ";
+		cout << "The number cannot be negative";
 	}
 	return 0;
 }
